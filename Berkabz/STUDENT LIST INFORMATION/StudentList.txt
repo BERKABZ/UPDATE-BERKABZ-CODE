@@ -1,0 +1,8 @@
+STUDENT LIST INFORMATION
+------------------
+ID Number: dasd
+Name: dad
+Age: dads
+Course: ddad
+Year: dada
+------------------

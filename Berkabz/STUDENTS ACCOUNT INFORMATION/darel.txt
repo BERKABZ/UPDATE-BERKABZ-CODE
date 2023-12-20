@@ -1,0 +1,26 @@
+----------------------------
+STUDENTS ACCOUNT INFORMATION
+----------------------------
+Name: Darel Briones
+Email/Num.: darel
+Password: darel
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Exercising
+Reading
+Eating
+Study
+Playing Online Games
+--------------------------
+----------------------------
+STUDENTS ACCOUNT INFORMATION
+----------------------------
+Name: Darel Briones
+Email/Num.: darel
+Password: darel
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Eating
+--------------------------
