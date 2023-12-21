@@ -190,8 +190,10 @@ public class LOGIN extends javax.swing.JFrame {
             }
             return;
         }
-
-        try (BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\Darel Briones\\OneDrive\\Documents\\Berkabz\\Berkabz\\STUDENTS ACCOUNT INFORMATION\\" + txtEmail_Num.getText() + ".txt"))) {
+        
+        String filePath = "STUDENTS ACCOUNT INFORMATION\\" + emailNum + ".txt";
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))){
+        
         String line;
         boolean loggedIn = false;
         String emailLine = "Email/Num.: " + emailNum;
